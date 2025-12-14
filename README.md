@@ -1,5 +1,7 @@
 # TWIST-on-Nokov
 
+![Demo](VID_20251126230507.gif)
+
 First, please make sure you have configured GMR and TWIST environments.If not，visit [GMR](https://github.com/YanjieZe/GMR) and [TWSIT](https://github.com/YanjieZe/twist)
 
 ## Installation
