@@ -11,6 +11,7 @@ mv nokov_vendor ../general_motion_retargeting/
 mv XINGYING_sdk ../third_party/
 mv nokov_to_twist.py ../scripts/
 cd .. && rm -r TWIST-on-Nokov
+cd third_party/XINGYING_sdk/ && pip install nokovpy-3.0.1-py3-none-any.whl
 ```
 
 ## Usage
